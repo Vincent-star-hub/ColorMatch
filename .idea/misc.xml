@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/ColorMatchGame/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/ColorMatchGame/app/src/main/res/layout/layout_buttons.xml" value="0.22" />
+        <entry key="..\:/Users/Vincent/AndroidStudioProjects/Color-Match-Game-master/app/src/main/res/font/.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Vincent/AndroidStudioProjects/Color-Match-Game-master/app/src/main/res/font/allan.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Vincent/AndroidStudioProjects/Color-Match-Game-master/app/src/main/res/font/bangers.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Vincent/AndroidStudioProjects/Color-Match-Game-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Vincent/AndroidStudioProjects/Color-Match-Game-master/app/src/main/res/layout/layout_buttons.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
